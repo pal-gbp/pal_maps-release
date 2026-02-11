@@ -2,6 +2,22 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.0 (2025-12-17)
+------------------
+* renamed to map
+* maps for corridor world
+* Contributors: andreacapodacqua
+
+0.4.0 (2025-12-01)
+------------------
+* updated 7th floor map
+* Contributors: antoniobrandi
+
+0.3.0 (2025-12-01)
+------------------
+* added home map
+* Contributors: martinaannicelli
+
 0.2.0 (2025-11-05)
 ------------------
 * fix pgm names
